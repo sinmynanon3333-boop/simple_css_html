@@ -40,7 +40,7 @@ header {
 .first_page {
   width: auto;
   height: 90%;
-  background-image: url("/img/e7636a09-8670-404a-a6ff-d8302178b5ed.jpg");
+  background-image: url("../img/e7636a09-8670-404a-a6ff-d8302178b5ed.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
